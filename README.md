@@ -1,2 +1,3 @@
 # hello-world
 Sample Repository for Learning
+This is a bit about me...
